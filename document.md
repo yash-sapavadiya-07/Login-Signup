@@ -1,1 +1,15 @@
-Flutter login &amp; Sign up page (Java)Description:This project is a Flutter-based mobile application focusing on a modern, user-friendly authentication flow. It provides a sleek interface for users to log in or create a new account, serving as a solid foundation for any app requiring user authentication.Key Features:Modern Login and Sign-up screens.Form validation and responsive layout.Clean and modular Flutter code structure.Project Links:Google Drive (Project Files): https://drive.google.com/drive/folders/1m3FAgzpvw3GoQxNgpuJ_koupOGAQjeaI?usp=drive_linkSetup Instructions:Install Flutter and Dart SDK.Clone this repository or download the source.Run 'flutter pub get' to install dependencies.Use 'flutter run' to launch the app on your emulator or physical device.
+Flutter login & Sign up page (Java)
+
+Description:This project is a Flutter-based mobile application focusing on a modern, user-friendly authentication flow. It provides a sleek interface for users to log in or create a new account, serving as a solid foundation for any app requiring user authentication.
+
+Key Features:
+Modern Login and Sign-up screens.
+Form validation and responsive layout.
+Clean and modular Flutter code structure.
+Project Links:
+Google Drive (Project Files): https://drive.google.com/drive/folders/1m3FAgzpvw3GoQxNgpuJ_koupOGAQjeaI?usp=drive_linkSetup 
+Instructions:
+Install Flutter and Dart SDK.
+Clone this repository or download the source.
+Run 'flutter pub get' to install dependencies.
+Use 'flutter run' to launch the app on your emulator or physical device.
